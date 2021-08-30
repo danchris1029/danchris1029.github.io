@@ -13,8 +13,7 @@
       <pubDate>Sat, 28 Aug 2021 19:47:37 -0500</pubDate>
       
       <guid>http://example.org/post/softwareengineer/</guid>
-      <description>The Confusion Before The Experience To fully understand just a bit of the abstracted map of the field of Software Engineering, I think that a person should gain experience in some of its branches which gives them atleast a fundamental understanding of each one.
-The Software Developer This person would work on the main portion of a software application. Also, it&amp;rsquo;s a plus if whatever they develop can be run on any platform or be easily integrated into a web application (but that may be asking a bit too much during the first versions of the application).</description>
+      <description>The Confusion Before The Experience Some of the material studied to earn a computer science degree focuses on theoretical fundamentals and computational algorithms which a person with the degree could use to make further advances within the field (though they might need to pursue further mastery over the subject such as earning a masters or Phd before pursuring research oppurtunities), but some gradutes might instead look to immediately jump start their careers within software engineering so their job search starts right after graduation.</description>
     </item>
     
     <item>
@@ -26,15 +25,6 @@ The Software Developer This person would work on the main portion of a software 
       <description>So, having a bunch of different tools under our belt couldn&amp;rsquo;t hurt a bit, in fact it may help overcome a lot of bottleneck issues that come up in the middle of developing a software application.
 MERN Stands for Mongoose, Express, React and Node. A full-stack architecture I used for my first web-application which was a bug tracker application I built based off of this youtube video https://www.youtube.com/watch?v=oC483DTjRXU&amp;amp;t=860s&amp;amp;ab_channel=CoderFoundry
 Mern to come :) </description>
-    </item>
-    
-    <item>
-      <title>Whatisup</title>
-      <link>http://example.org/post/whatisup/</link>
-      <pubDate>Fri, 27 Aug 2021 20:30:24 -0500</pubDate>
-      
-      <guid>http://example.org/post/whatisup/</guid>
-      <description></description>
     </item>
     
     <item>
